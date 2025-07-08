@@ -29,20 +29,7 @@ I’m learning Fusion 360 from this YouTube playlist:
 
 ## ✅ Learning Progress
 
-### Day 01 – *Toy Block Project*
-- Created a **component**
-- Used **2-point rectangle** and **center circle** in sketch mode
-- Applied **dimension constraints** for accurate sizing
-- Positioned sketches using the **origin**
-- Used the **extrude** tool to create 3D geometry
-- Applied a **rectangular pattern** to duplicate features
-
-✔️ Topics Covered:
-- Components  
-- Sketching basics (rectangle, circle)  
-- Dimensioning  
-- Extrude (Join)  
-- Rectangular pattern
+Detailed daily learnings are documented in [LEARNING.md](LEARNING.md)
 
 ---
 
