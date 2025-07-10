@@ -44,4 +44,22 @@ This file tracks my daily learning journey with Fusion 360.
 
 ---
 
+## 📅 Day 03 – Making a Paper Clip
+
+- Created a **Component**
+- Used **Line tool** to sketch the outer path of the paper clip
+- Used **Construction line** to control distance for arc placement
+- Used **Tangent Arc tool** to create smooth bends along the path
+- Created another sketch for the **sweep profile** (a circle with center point)
+- Applied the **Sweep tool** to follow the sketched path and form the 3D wire
+
+✔️ Topics Covered:
+- Components
+- Line tool
+- Construction geometry
+- Tangent arc
+- Sweep (path & profile)
+
+---
+
 I will keep updating this file as I progress further.
