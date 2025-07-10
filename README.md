@@ -29,7 +29,7 @@ I’m learning Fusion 360 from this YouTube playlist:
 
 ## ✅ Learning Progress
 
-Detailed daily learnings are documented in [LEARNING.md](LEARNING.md)
+Detailed daily learnings are documented in [LEARNINGS.md](LEARNINGS.md)
 
 ---
 
